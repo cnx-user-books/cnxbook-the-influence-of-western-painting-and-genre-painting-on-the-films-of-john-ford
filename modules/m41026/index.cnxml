@@ -1,0 +1,344 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>An analysis of the time given to hearth scenes in Fort Apache</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m41026</md:content-id>
+  <md:title>An analysis of the time given to hearth scenes in Fort Apache</md:title>
+  <md:abstract>This dissertation demonstrates John Ford’s use of images from a wide range of sources in many of his films. In particular, it examines Ford’s use of images based on the conventions of American genre painting and the paintings of western artists Frederic Remington and Charles M. Russell, particularly in his so-called “cavalry” films. No previous work has recognized this connection between film and popular culture, which is documented here using art historical methods of iconography and the study of influence.</md:abstract>
+  <md:uuid>4ea8b766-0928-4b38-9ef0-850637551850</md:uuid>
+</metadata>
+
+<content>
+ <para id="id1171899288488">Genre painting-inspired hearth scenes like these occupy a significant portion of the running time of Fort Apache in spite of the emphasis critics have given to the massacre. Genre scenes account for nearly half of the film's sequences as the following table demonstrates. The table enumerates thirty-one sequences or scenes and notes the time each starts and its duration. The start time is expressed in hours, minutes, and seconds from the beginning of the film; the duration is expressed in minutes and decimal fractions of minutes. Scene 6 for example, Michael's homecoming, which was described above, starts approximately thirteen minutes and thirty-five seconds into the film and lasts almost two minutes (1.92). The asterisk denotes that it is a genre painting-inspired scene.</para>
+        <table id="id1171901542986" summary="">
+          <tgroup cols="7">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <tbody>
+              <row>
+                <entry/>
+                <entry/>
+                <entry namest="c3" nameend="c5">START</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry/>
+                <entry>SCENE </entry>
+                <entry>H</entry>
+                <entry>M</entry>
+                <entry>S </entry>
+                <entry>DURATION</entry>
+                <entry>GENRE *</entry>
+              </row>
+              <row>
+                <entry>1</entry>
+                <entry>TITLES </entry>
+                <entry>0</entry>
+                <entry>0</entry>
+                <entry>0</entry>
+                <entry>2.00</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>2</entry>
+                <entry>STAGE COACH INTERIOR </entry>
+                <entry>0</entry>
+                <entry>2</entry>
+                <entry>0</entry>
+                <entry>3.00</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>3</entry>
+                <entry>INTERIOR MA BREEN'S </entry>
+                <entry>0</entry>
+                <entry>5</entry>
+                <entry>0</entry>
+                <entry>4.75</entry>
+                <entry>*</entry>
+              </row>
+              <row>
+                <entry>4</entry>
+                <entry>ESCORT TO FORT (MIRROR) </entry>
+                <entry>0</entry>
+                <entry>9</entry>
+                <entry>45</entry>
+                <entry>0.75</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>5</entry>
+                <entry>THURSDAY'S ARRIVAL-DANCE </entry>
+                <entry>0</entry>
+                <entry>10</entry>
+                <entry>30</entry>
+                <entry>3.08</entry>
+                <entry>*</entry>
+              </row>
+              <row>
+                <entry>6</entry>
+                <entry>MICHAEL'S HOMECOMING </entry>
+                <entry>0</entry>
+                <entry>13</entry>
+                <entry>35</entry>
+                <entry>1.92</entry>
+                <entry>*</entry>
+              </row>
+              <row>
+                <entry>7</entry>
+                <entry>PHIL AWAKES </entry>
+                <entry>0</entry>
+                <entry>15</entry>
+                <entry>30</entry>
+                <entry>0.67</entry>
+                <entry>*</entry>
+              </row>
+              <row>
+                <entry>8</entry>
+                <entry>PARADE GROUND -MORNING </entry>
+                <entry>0</entry>
+                <entry>16</entry>
+                <entry>10</entry>
+                <entry>0.42</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>9</entry>
+                <entry>MICHAEL LEAVES HIS CARD </entry>
+                <entry>0</entry>
+                <entry>16</entry>
+                <entry>35</entry>
+                <entry>3.67</entry>
+                <entry>*</entry>
+              </row>
+              <row>
+                <entry>10</entry>
+                <entry>THURSDAY'S FIRST ORDERS </entry>
+                <entry>0</entry>
+                <entry>20</entry>
+                <entry>15</entry>
+                <entry>5.42</entry>
+                <entry>*</entry>
+              </row>
+              <row>
+                <entry>11</entry>
+                <entry>PHIL BEGINS HOUSEKEEPING </entry>
+                <entry>0</entry>
+                <entry>25</entry>
+                <entry>40</entry>
+                <entry>3.50</entry>
+                <entry>*</entry>
+              </row>
+              <row>
+                <entry>12</entry>
+                <entry>DRILLING THE RECRUITS </entry>
+                <entry>0</entry>
+                <entry>29</entry>
+                <entry>10</entry>
+                <entry>4.17</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>13</entry>
+                <entry>LUPE'S DINNER </entry>
+                <entry>0</entry>
+                <entry>33</entry>
+                <entry>20</entry>
+                <entry>3.50</entry>
+                <entry>*</entry>
+              </row>
+              <row>
+                <entry>14</entry>
+                <entry>COLLINGWOODS DINNER </entry>
+                <entry>0</entry>
+                <entry>37</entry>
+                <entry>10</entry>
+                <entry>6.42</entry>
+                <entry>*</entry>
+              </row>
+              <row>
+                <entry>15</entry>
+                <entry>RECRUITS RIDING LESSON </entry>
+                <entry>0</entry>
+                <entry>43</entry>
+                <entry>0</entry>
+                <entry>3.58</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>16</entry>
+                <entry>PHIL AND MICHAEL'S RIDE </entry>
+                <entry>0</entry>
+                <entry>46</entry>
+                <entry>35</entry>
+                <entry>3.92</entry>
+                <entry>*</entry>
+              </row>
+              <row>
+                <entry>17</entry>
+                <entry>THURSDAY'S REPRIMAND </entry>
+                <entry>0</entry>
+                <entry>50</entry>
+                <entry>30</entry>
+                <entry>4.42</entry>
+                <entry>*</entry>
+              </row>
+              <row>
+                <entry>18</entry>
+                <entry>DECOY WAGON TACTIC </entry>
+                <entry>0</entry>
+                <entry>54</entry>
+                <entry>55</entry>
+                <entry>4.50</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>19</entry>
+                <entry>INDIAN AGENCY </entry>
+                <entry>0</entry>
+                <entry>59</entry>
+                <entry>25</entry>
+                <entry>7.67</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>20</entry>
+                <entry>SERGEANT'S ON MANURE PILE </entry>
+                <entry>0</entry>
+                <entry>17</entry>
+                <entry>51</entry>
+                <entry>0.67</entry>
+                <entry>*</entry>
+              </row>
+              <row>
+                <entry>21</entry>
+                <entry>YORK ASKS TO SEE COCHISE 1 </entry>
+                <entry>1</entry>
+                <entry>8</entry>
+                <entry>45</entry>
+                <entry>1.75</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>22</entry>
+                <entry>YORK'S RIDE TO MEXICO </entry>
+                <entry>1</entry>
+                <entry>10</entry>
+                <entry>0</entry>
+                <entry>3.00</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>23</entry>
+                <entry>THURSDAY IN O'ROURKE'S </entry>
+                <entry>1</entry>
+                <entry>13</entry>
+                <entry>0</entry>
+                <entry>4.33</entry>
+                <entry>*</entry>
+              </row>
+              <row>
+                <entry>24</entry>
+                <entry>YORK MEETS COCHISE </entry>
+                <entry>1</entry>
+                <entry>17</entry>
+                <entry>20</entry>
+                <entry>3.08</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>25</entry>
+                <entry>NCO DANCE </entry>
+                <entry>1</entry>
+                <entry>20</entry>
+                <entry>25</entry>
+                <entry>9.83</entry>
+                <entry>*</entry>
+              </row>
+              <row>
+                <entry>26</entry>
+                <entry>TROOPS DEPARTURE </entry>
+                <entry>1</entry>
+                <entry>30</entry>
+                <entry>15</entry>
+                <entry>4.00</entry>
+                <entry>*</entry>
+              </row>
+              <row>
+                <entry>27</entry>
+                <entry>DUSTY NOISY MARCH </entry>
+                <entry>1</entry>
+                <entry>34</entry>
+                <entry>15</entry>
+                <entry>3.67</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>28</entry>
+                <entry>THURSDAY'S PARLEY </entry>
+                <entry>1</entry>
+                <entry>37</entry>
+                <entry>55</entry>
+                <entry>4.67</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>29</entry>
+                <entry>YORK'S CHALLENGE </entry>
+                <entry>1</entry>
+                <entry>42</entry>
+                <entry>35</entry>
+                <entry>5.17</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>30</entry>
+                <entry>MASSACRE </entry>
+                <entry>1</entry>
+                <entry>47</entry>
+                <entry>0</entry>
+                <entry>11.00</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>31</entry>
+                <entry>YORK'S GREAT MAN SPEECH AND TROOPS DEPARTURE</entry>
+                <entry>1</entry>
+                <entry>58</entry>
+                <entry>0</entry>
+                <entry>4.50</entry>
+                <entry>*</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id1171898312351">The sixteen genre-inspired scenes account for slightly more than an hour of a two-hour film, and represent much of what Ford added to Bellah's short adventure story. In Ma Breen's, in Thursday's quarters, in the O’Rourke’s' and the Collingwood’s' quarters, and in post headquarters, Ford accomplished his goal of showing what life was like at a Cavalry post through genre imagery. The following summary attempts to observe the balance between western and non-western imagery.</para>
+        <para id="id1171901755349">Because so much of the film has a genre painting quality, the title-sequence performs a significant function in Fort Apache. In effect, the title sequence promises that this film will be about Indians and the cavalry. The titles begin as a mounted bugler, in silhouette, rides into the frame and raises his instrument to his lips. The music begins with this bugle call while Merian C. Cooper's and John Ford's names are superimposed over a wider shot of the bugler with one of the pinnacles of Monument Valley silhouetted beside him. The shot of the bugler dissolves immediately into a shot of a long line of Apache warriors riding right-to-left down a desert slope. The music takes on a threatening Indian cadence reinforced with tom-toms and the main title, "Fort Apache," appears superimposed over the Indians. This is followed by five shots of cavalry troopers, reminiscent of Remington's paintings Pony Tracks in the Buffalo Trails or The Quest, as the music switches to a rendition of "She Wore a Yellow Ribbon." As this tune, which blends the traditions of the cavalry with conventional romantic ballads, ends, the scene changes to a military ball, the men in dress uniforms, their arms linked with their dancing partners, proceeding four abreast toward the camera in time to a grand march tune. It is over this scene that the credit "Suggested by the story 'Massacre' by James Warner Bellah" appears. The grand march dissolves to a shot of a vast desert landscape; in the middle distance, two horsemen gallop through the sand. This shot dissolves to an ominously close and low angle view of Indian warriors riding toward the camera, a scene that imitates Harold Von Schmidt's illustration for another Bellah story "The Last Fight" (fig. 111), and this dissolves to the opening shot of the film, another vast landscape marked by the pinnacles of Monument Valley. At the foot of the pinnacles, a stagecoach bumps over a rough and dusty road.</para>
+        <para id="id1171901164354">The Indians, who occupy such a privileged position in the titles - first, after the masthead-like bugler, and last - do not appear in the film until scene 18, which begins almost an hour later. Even then, they appear only in a relatively minor skirmish, not in the overwhelming numbers seen in the titles. Those Indians, the Indians of the massacre, do not appear until scene 28, over an hour and a half into the film. Most of the final half hour of the film does fulfill the titles' promised confrontation between the cavalry and the Apaches. This section of the film, which combines Schreyvogel and Remington with Ford's own pictorial sense, begins with scene 26 when the troops ride out of the fort to meet Cochise, and ends with scene 30 as the dust from the departing Indian ponies obscures the bodies of Thursday and his men. But this is a long-awaited battle scene and even its length - the massacre itself lasts eleven minutes - and its privileged position at the end of the film does not diminish the impact of all that has gone before.</para>
+        <para id="id7856327">The genre painting character of the film becomes evident in scene 3, just five minutes after the very first frame. This is the interior of Ma Breen's where Philadelphia and Ma perform their hat ritual, where Michael O'Rourke and Philadelphia first meet, and where Thursday demonstrates his condescension toward the young Lieutenant. This scene lasts almost five minutes, as long as everything that precedes it; only six scenes in the entire film are longer, including the massacre. The duration of this scene, which is so much like a painting by John Lewis Krimmell brought to life, and its placement, interrupts the cavalry-Indian opposition implied in the titles, and in its place initiates an opposition between Thursday and O'Rourke, which develops into an opposition between Thursday and all of Fort Apache.</para>
+        <para id="id1171910114947">From the stagecoach stop, Philadelphia and Thursday proceed to Fort Apache in the coach that had been sent to pick up Lieutenant O'Rourke. Because Indians had cut the telegraph wires no one at the fort knew of Thursday's arrival. As Lieutenant O'Rourke rides alongside the coach, Philadelphia contrives to observe his reflection in the mirror of her dressing case after her father makes it clear he disapproves of her interest in him. In the oval frame of the mirror, O'Rourke's image literally becomes a picture. The coach arrives at Fort Apache late that night, during a dance in honor of George Washington. The dance stops and the men come to attention as Thursday enters. This room, with a portrait of Washington above the mantelpiece, is also evocative of a hearth and the dance is photographed in away that recalls the pictures on nineteenth-century sheet music. Thursday introduces himself, still rather peevish that his arrival was unexpected and that the dance is not in his honor. Philadelphia however joins the dance, only pausing to hand Thursday her hat for safekeeping, a gesture he does not appreciate as much as Ma Breen did. From the dance, the scene changes to the O'Rourke quarters and Michael's homecoming, a scene that ends when Sergeant Major O'Rourke steps outside to leave Michael with his mother. His fellow sergeants join him to celebrate Michael's return with a drink at the sutler's store.</para>
+        <para id="id1171894892576">The next morning the report of a cannon as the colors are raised and the sound of reveille awaken Philadelphia in the bare, dormer-like loft of their quarters. She goes to the balcony and observes the beautifully choreographed activity on the parade ground: teams of horses led from the stables at a gallop, wagons passing back and forth, men mounted and on foot going in every direction. One of these men is Michael O'Rourke walking purposefully toward Thursday's quarters. Philadelphia greets him from the balcony and comes down the outside stairs to join him. He has come to leave his card, the first duty of a new officer according to army tradition. Phil, who is unfamiliar with the protocol, and thinks he has come to see her, greets him warmly. When Michael announces the official nature of his visit with what he thinks is the formality it demands, she goes into a pout. This scene, which might be a Currier &amp; Ives picture titled "Young lovers - their first fight," is interrupted by Captain York, who clears up the misunderstanding, and tells Michael he has been assigned to York's troop.</para>
+        <para id="id1171912673033">From this point, the end of scene nine, the film follows three parallel actions: Phil as she struggles to furnish her bare quarters with the help of Mrs. Collingwood and Mrs. O'Rourke, Michael as he begins his day drilling recruits, and Thursday as he calls an officers meeting and takes command of the of the Fort.</para>
+        <para id="id1171900262310">The contrast between Thursday's bare quarters and the lovingly decorated quarters of the other families can be interpreted just as an art historian would interpret the status and stability of the figures in a hearth picture from their surroundings. Phil's efforts to make their quarters as home-like as the O'Rourke's fail miserably. First an easy chair she has borrowed for her father's comfort overturns when he sits down in it, and then he is called away before the dinner she has prepared can be served. Disappointed that her first efforts as a homemaker have failed, Phil goes to the Collingwood’s as she did that morning. She walks in on a welcome home dinner party for Michael. The Collingwoods and their guests, Michael and Captain York, observe all the proper forms of hospitality with good humor. After dinner Phil and Mrs. Collingwood leave the table and move to the sofa so the men can enjoy a cigar. This comfortable room with its well-laid table and convivial party could be in Boston or Washington rather than at a remote frontier outpost. By comparison, Thursday's quarters do seem like a "godforsaken place," as he characterized Fort Apache. This contrast is conveyed through images of the respective hearths as much as through dialog and action. The Collingwood's dinner, scene 14, significant for its six minute length alone, ends with a serenade by the regimental singers after which Michael and Phil slip outside to make a date to go riding.</para>
+        <para id="id1171896393682">Thursday begins his day by issuing an officers' call and reading his orders to take command of Fort Apache. He brusquely and without explanation reassigns Captain York and Captain Collingwood, who had been respectively acting commander and adjutant, to their troops. He makes it clear that he will insist on strict adherence to Army regulations in all matters, especially with respect to dress, and he also makes it clear that he underestimates the surrounding Apaches. After dismissing the officers, including Michael, Thursday asks Sergeant Major O'Rourke if he is "by chance" related to Lieutenant O'Rourke. He learns that the sergeant holds the Congressional Medal of Honor, which entitled his son to attend West Point.</para>
+        <para id="id1171917523737">Michael is relieved from drilling the recruits by the sergeants in what becomes literally a slapstick scene. In the meantime, his father takes Michael to the stables and presents him with a fine horse. He rejoins the recruits, who now march smartly, and rides alongside them.</para>
+        <para id="id2252055">The next day brings with it the first action scenes of the film, encompassed in scenes 15 through 19. The day begins with a long comic sequence as the recruits are introduced to their mounts. At the same time, Phil and Michael go for a ride together in the desert. Back at the Fort, Thursday and several officers are trying to complete the meaning of a telegram sent to alert Fort Apache that Diablo and his band are on the move. The wires were cut before the entire message had been received. Just when Thursday is informed that Michael is out riding with Phil, the scene cuts to them and Phil points out a plume of smoke. They go to investigate and discover the bodies of the men sent out to fix the wire beside the burning repair wagon. Michael picks up an Apache headband and he and Phil race back to the fort. Before initiating his plan to trap the Indians, Thursday reprimands Michael for placing Phil in danger and orders him to avoid her company. He then orders Michael to escort a wagon to recover the bodies of the dead troopers and to repair the wire. The wagon is a decoy. When the Indians attack, a thrilling chase ensues and York, saber held high, leads a Schreyvogel-like charge to the rescue. For all its excitement, this scene is brief. From the time Michael leads the wagon out of the fort until the dust settles at the end of the chase takes only 4.5 minutes of screen time.</para>
+        <para id="id1171908594770">After Diablo's band has been captured, Thursday leads the troop to the Indian agency. The agent is depicted as alternately self-righteous and fawning, and thoroughly corrupt. It is appropriate that his store is a dugout, below ground level, like the nest of a rodent. He supplies the Indians with whiskey, trades them worthless junk, and shortchanges them on their government beef rations. Captain York and later Cochise explain to Thursday that by these practices the agent drives the Indians off the reservation. This day ends as the sergeants prepare to destroy the agent's whiskey supply by drinking it, an interpretation of their orders that lands them in the guardhouse and on the manure crew the next day.</para>
+        <para id="id7912315">To demonstrate to Thursday that the Indians would return to the reservation if something were done about the agency, Captain York volunteers to ride to Mexico and talk Cochise into coming back. Thursday sees this as his opportunity for glory and formulates a plan to trap Cochise after York leaves.</para>
+        <para id="id1171917482082">While York pursues his mission, the opposition between Thursday and Michael O'Rourke, having begun in the hearth-like setting of the stagecoach stop, finally comes to a head in the O'Rourke's parlor in scene 23, a little over an hour of screen time later. Michael's homecoming established the O'Rourke parlor as the most hearth-like setting in the film. It is there, with the O'Rourkes seated around the dinner table, that Philadelphia confronts Michael and demands to know if he loves her. At that moment Thursday walks in and orders Philadelphia home. She refuses and declares her love for Michael, who asks Thursday for her hand in marriage. Thursday orders Michael to leave, whereupon his father, Sergeant Major O'Rourke reminds Thursday that he is an uninvited guest and has no right to give any orders. Thursday and Philadelphia leave, but her declaration of her love for Michael, and his proposal, consummate the flirtation that began in the stagecoach stop. With this romantic and genre-inspired plot brought to a climax, the film finally turns to the resolution of the opposition between the cavalry and the Indians.</para>
+        <para id="id1171901735244">The entire regiment, with flags waving, rides out of Fort Apache to do battle with Cochise one hour and thirty minutes after the bugle call with which the film began. Phil, Mrs. O'Rourke, Mrs. Collingwood and several other wives watch from the balcony (fig. 61/ scene 26). The previous night Thursday had led off the grand march of the non-commissioned officers' ball with Mrs. O'Rourke on his arm while the Sergeant Major danced with Philadelphia -the same scene shown in the title sequence with tension added from the confrontation between Thursday and the Sergeant Major. The dance had been interrupted by York's return with news that Cochise and his band had crossed back into U.S. territory. Thursday immediately stopped the dance and ordered the troops to prepare to ride at dawn.</para>
+        <para id="id1171900718517">At the rendezvous York arranged, Thursday confronts Cochise and orders him back to the reservation, undeterred by the fact that the cavalry is outnumbered four to one. York questions Thursday's plan and when Thursday accuses him of cowardice, York throws down his gauntlet. With contempt, Thursday orders York back to the supply wagons and instructs him to take Michael with him. York sends Michael to Fort Grant for reinforcements, yelling after him to <quote display="inline">marry that girl</quote>. From the ridge where the wagons have been pulled up in a defensive position, York watches Thursday and the regiment ride into Cochise's trap.</para>
+        <para id="id1171913660781">The bugle sounds and the scene changes from the ridge where York has stationed the wagons to the open desert. Out of the distance, the troop, four abreast, charges directly toward the viewer. Cavalry yells pierce the air and hoof beats resound. In the individual shots that make up the sequence that follows, Ford's careful study of Schreyvogel and Remington is evident. Thursday leans forward upon his horse's neck, the skirt of his kepi flying back. Collingwood's hat blows off as he waves his saber over his head. The bugler, his horse galloping on a lead from another trooper, sounds and re-sounds the charge.</para>
+        <para id="id1171892816733">A small group of Indians rides out to meet the cavalry. Shots ring out above the sound of hoof beats. The bugler falls to the ground, but his horse races on, the bugle dangling from the saddle horn. Another shot and another trooper falls, pulling his horse down with him. The Indians retreat into a canyon and Thursday charges after them, into a ring of fire from the ridge top. The troopers ride back and forth, trapped in the canyon by the deadly gunfire. Thursday falls from his horse. York rides into the canyon to help him, but Thursday only asks for York's saber and returns to what is left of his command. Collingwood, Sergeant O'Rourke, and a few other men gather in a small gully. When Thursday joins them and raises his pistol toward the oncoming warriors, the doomed group takes on the appearance of Custer's Last Fight. The Indians sweep over Thursday's position like a cloud. Cochise stops short of York’s position with the wagons on the ridge, thrusts the company guidon into the dirt, and rides away.</para>
+        <para id="id1171899787899">Dust settles over the battlefield and the scene dissolves to headquarters at Fort Apache. A portrait of Thursday hangs over the mantel. York, now commander, briefs a group of journalists on the cavalry's campaign against Geronimo. He tells them that Thursday made Fort Apache a command to be proud of. He introduces them to his adjutant, Captain Michael O'Rourke, says goodbye to his godson, takes his kepi -like the one Thursday wore -and leads them to their horses.</para>
+        <para id="id1171898564110">As the regiment rides out of the fort, Phil stands on the balcony and holds her son, Michael Thursday York O'Rourke (fig. 62). In name he recapitulates the regiment - the Lieutenant, the Colonel, the Captain, and the Sergeant Major. She is not just his mother, she recapitulates the mother of the regiment. Mrs. O'Rourke stands beside her, recalling the way they stood side by side with Mrs. Collingwood when Thursday led the regiment to the massacre. They are the women of the house, as Sergeant Major O'Rourke called his wife, or women of the hearth, and Ford's use of their image to frame the massacre reiterates the genre or non-western character of the film that first emerged at Ma Breen's. </para>
+        <para id="id1171891250008">During the interview with the newspapermen in his office, York tells them that the Collingwoods and the O'Rourkes, the unsung heroes of the regiment, would never be forgotten because their spirits would live as long as the regiment lives. As he says these words, he gazes out the window and reflected in the glass, as if in a vision, the regiment rides past. It is significant however that the immortality of the regiment is asserted from within the hearth-like setting of York's office. The cavalry scenes, especially those inspired by Schreyvogel, take on a different character when seen in the context of the genre scenes rather than in isolation. They are no less thrilling, but their transitory nature is more evident. On canvas or in a magazine illustration Schreyvogel’s cavalrymen can fight Indians and charge across the plains forever, but in a film, as in life, they cannot. The pictures themselves do not support the narrative; they might be said to be exciting incidents, but they are not stories. To tell the story of Collingwood and O’Rourke and York, Ford had to turn to genre images, to images of everyday life.</para>
+</content>
+
+</document>
