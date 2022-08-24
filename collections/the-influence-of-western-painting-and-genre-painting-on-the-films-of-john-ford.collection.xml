@@ -1,3 +1,59 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Phdthesis">  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">  <md:content-id>col11357</md:content-id>  <md:title>The Influence of Western Painting and Genre Painting on the Films of John Ford </md:title>      <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>  <md:language>en</md:language>              <md:uuid>8fee8a58-183e-4ac9-8b56-4dc08b25cca4</md:uuid>
-<md:slug>the-influence-of-western-painting-and-genre-painting-on-the-films-of-john-ford</md:slug>
-</metadata>  <col:content>          <col:module document="m41030"/>                                          <col:subcollection>        <md:title>Introduction to John Ford's use of popular imagery in his films</md:title>                                <col:content>                    <col:module document="m40998"/>                            <col:module document="m40987"/>                            <col:module document="m40996"/>                            <col:module document="m40984"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Source imagery for John Ford's movies: 19th century genre paintings</md:title>                                <col:content>                    <col:module document="m40993"/>                            <col:module document="m40999"/>                            <col:module document="m41001"/>                            <col:module document="m41002"/>                            <col:module document="m41003"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>John Ford's appreciation for Frederic Remington, Charles Russell, and Charles Schreyvogel</md:title>                                <col:content>                    <col:module document="m41004"/>                            <col:module document="m41005"/>                            <col:module document="m41033"/>                            <col:module document="m41007"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>John Ford's post-WWII western films: massacres or antimacassars?</md:title>                                <col:content>                    <col:module document="m41023"/>                            <col:module document="m41024"/>                            <col:module document="m41025"/>                            <col:module document="m41027"/>                            <col:module document="m41026"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Notes on film scholarship and art history methods</md:title>                                <col:content>                    <col:module document="m41028"/>                            <col:module document="m41029"/>                          </col:content>      </col:subcollection>      </col:content></col:collection>
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Phdthesis" authors="William Howze">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11357</md:content-id>
+    <md:title>The Influence of Western Painting and Genre Painting on the Films of John Ford </md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>8fee8a58-183e-4ac9-8b56-4dc08b25cca4</md:uuid>
+    <md:slug>the-influence-of-western-painting-and-genre-painting-on-the-films-of-john-ford</md:slug>
+  </metadata>
+  <col:content>
+    <col:module document="m41030"/>
+    <col:subcollection>
+      <md:title>Introduction to John Ford's use of popular imagery in his films</md:title>
+      <col:content>
+        <col:module document="m40998"/>
+        <col:module document="m40987"/>
+        <col:module document="m40996"/>
+        <col:module document="m40984"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Source imagery for John Ford's movies: 19th century genre paintings</md:title>
+      <col:content>
+        <col:module document="m40993"/>
+        <col:module document="m40999"/>
+        <col:module document="m41001"/>
+        <col:module document="m41002"/>
+        <col:module document="m41003"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>John Ford's appreciation for Frederic Remington, Charles Russell, and Charles Schreyvogel</md:title>
+      <col:content>
+        <col:module document="m41004"/>
+        <col:module document="m41005"/>
+        <col:module document="m41033"/>
+        <col:module document="m41007"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>John Ford's post-WWII western films: massacres or antimacassars?</md:title>
+      <col:content>
+        <col:module document="m41023"/>
+        <col:module document="m41024"/>
+        <col:module document="m41025"/>
+        <col:module document="m41027"/>
+        <col:module document="m41026"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Notes on film scholarship and art history methods</md:title>
+      <col:content>
+        <col:module document="m41028"/>
+        <col:module document="m41029"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
